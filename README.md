@@ -149,5 +149,5 @@ streamlit run chatbot.py
 
 ## Author
 
-**Aarav Solutions — Internal HR Tools**  
+**Anjali Shrivastava — Internal HR Tools**  
 Built as part of an AI/ML internship project.
